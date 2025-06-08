@@ -1,64 +1,76 @@
----
-
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-RaviSwami&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-RaviSwami" /> </p>
-
-<p align="center"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-RaviSwami&theme=darkhub" alt="Dev-RaviSwami" /></a>
-</p>
-
----
-
-🌱 **About Me** <br>  
-I'm a detail-oriented frontend developer with a strong foundation in JavaScript frameworks, CSS libraries, and responsive design. Whether it’s crafting interactive interfaces or diving into the latest in web development trends, I’m always up for the challenge. Here, you'll find projects that show my commitment to building clean and efficient code that not only works but creates a seamless user experience.
-
----
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
-   <a href="https://twitter.com/yourprofile" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> </a> 
-   <a href="mailto:youremail@example.com" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats</h3>
+<!-- Banner Image -->
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-RaviSwami&show_icons=true&locale=en&layout=compact" alt="Dev-RaviSwami" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋,+I'm+Ravi+Swami!;Full+Stack+Developer;Next.js+|+React+|+Node+|+Mongo+|+PostgreSQL;Lover+of+Clean+UIs+and+Powerful+Backends!&center=true&width=500&height=50">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-RaviSwami&show_icons=true&locale=en" alt="Dev-RaviSwami" /></p>
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Ravi Swami**, a passionate **Full Stack Developer** who loves building scalable applications, clean UIs, and efficient APIs. I specialize in **React**, **Next.js**, **Express**, **NestJS**, and have a strong interest in animations and data visualization.
+
+---
+
+## 🛠️ My Tech Arsenal
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+**Other Tools & Libraries:**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-0088FE?logo=recharts&logoColor=white&style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-RaviSwami&" alt="Dev-RaviSwami" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-RaviSwami&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-RaviSwami&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RaviSwami&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-💬 **Let's Build Something Amazing Together!**  
-I'm always open to collaborating on interesting projects, especially those that push the boundaries of frontend development. Whether it's a sleek user interface or a challenging interactive component, let’s bring ideas to life and make the web a more engaging place.
+## 📊 Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dev-RaviSwami&color=blue&style=for-the-badge)
 
 ---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link)
+
+---
+
+## ⚡ Bonus — Fun Fact
+
+> ✨ I believe in writing clean, scalable code and bringing UI to life with beautiful animations & seamless API integrations!
+
