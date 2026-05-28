@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Swami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Startup%20DNA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Swami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Startup%20DNA&descAlignY=58&descSize=18&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Swami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Startup%20DNA&descAlignY=58&descSize=18&animation=fadeIn)" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ship+fast.+Learn+faster.+Repeat.;Next.js+%2B+TypeScript+%2B+Prisma+%E2%9C%A8;Building+products+that+matter.;Open+to+collabs+%26+interesting+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ship+fast.+Learn+faster.+Repeat.;2++Years+of+Building+Web+Apps;Transitioning+to+Robust+Backend+Systems;Content+Creator+%40+Itz+Coding+Wizard)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,10 +17,11 @@
 ```ts
 const ravi = {
   username:   "Dev-RaviSwami",
-  role:       "Full Stack Developer",
+  alias:      "Itz Coding Wizard",
+  experience: "2+ years building web applications",
+  focus:      "Expanding from frontend mastery to backend architecture",
   mindset:    "Startup DNA — ship fast, learn faster",
-  currently:  "Building scalable web products",
-  goal:       "Turn ideas into production-grade apps",
+  currently:  "Building scalable products and sharing knowledge",
   available:  true, // Open to freelance & collaborations
 };
 ```
@@ -44,10 +45,8 @@ const ravi = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Data Fetching & Forms
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+### Currently Exploring 🦀
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,7 +67,7 @@ const ravi = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-RaviSwami&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-RaviSwami&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)]([https://git.io/streak-stats](https://git.io/streak-stats))
 
 </div>
 
@@ -78,18 +77,16 @@ const ravi = {
 
 | Project | Stack | Description | Link |
 |--------|-------|-------------|------|
-| 🚀 **[Project Alpha]** | Next.js · Prisma · PostgreSQL | [Short description — what problem it solves] | [Live ↗](#) · [Code ↗](#) |
-| 🧩 **[Project Beta]** | React · MongoDB · Node.js | [Short description — what problem it solves] | [Live ↗](#) · [Code ↗](#) |
-| ⚙️ **[Project Gamma]** | Next.js · shadcn · React Query | [Short description — what problem it solves] | [Live ↗](#) · [Code ↗](#) |
-
-> 💡 *Replace placeholders with your real projects — add 2-3 for max impact.*
+| 🚀 **[Your Project Name]** | Next.js · Prisma · PostgreSQL | Full-stack application solving X problem. | [Live ↗](#) · [Code ↗](#) |
+| 🧩 **[Your Project Name]** | React · MongoDB · Node.js | Scalable platform built for Y users. | [Live ↗](#) · [Code ↗](#) |
+| ⚙️ **[Your Project Name]** | Next.js · shadcn · React Query | High-performance dashboard and tooling. | [Live ↗](#) · [Code ↗](#) |
 
 ---
 
 ## 🤝 Open Source & Contributions
 
-- 🔧 Actively contributing to projects in the **Next.js / TypeScript** ecosystem
-- 🌱 Always looking to collaborate on **SaaS products**, **developer tools**, and **open-source utilities**
+- 🔧 Actively contributing to projects in the **Next.js / TypeScript** ecosystem.
+- 🌱 Always looking to collaborate on **SaaS products**, **developer tools**, and **open-source utilities**.
 - 📬 Have an interesting problem? Let's build together.
 
 ---
@@ -106,8 +103,9 @@ const ravi = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dev-RaviSwami)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dev-RaviSwami)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ItzCodingWizard)
+[![Fiverr](https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 </div>
 
@@ -115,7 +113,7 @@ const ravi = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dev-RaviSwami&color=A78BFA&style=flat-square&label=Profile+Views)
 
